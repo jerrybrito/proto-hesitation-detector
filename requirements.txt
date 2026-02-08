@@ -1,0 +1,2 @@
+# Requires: proto-infinity
+# (Not available on PyPI)
